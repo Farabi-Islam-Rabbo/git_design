@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **IUBAT CSE Student Service System**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👯 I’m looking to collaborate on **IUBAT CSE Student Service System**
 
